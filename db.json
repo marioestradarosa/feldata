@@ -1,0 +1,52 @@
+{
+  "facturas": [
+    {
+      "id": 1,
+      "cliente": "Mas y Mas Ventas, S.A.",
+      "fecha": "24-Abr-2020",
+      "monto": "465.23"
+    },
+    {
+      "id": 2,
+      "cliente": "Mi Mercado",
+      "fecha": "26-Abr-2020",
+      "monto": "200.00"
+    },
+    {
+      "id": 2,
+      "cliente": "Mi Mercado",
+      "fecha": "29-Abr-2020",
+      "monto": "180.20"
+    },
+    {
+      "id": 2,
+      "cliente": "Don Tono, S.A.",
+      "fecha": "26-Abr-2020",
+      "monto": "12.20"
+    },
+    {
+      "id": 2,
+      "cliente": "Mi Mercado",
+      "fecha": "26-Abr-2020",
+      "monto": "201.00"
+    },
+    {
+      "id": 2,
+      "cliente": "Mi Mercado",
+      "fecha": "26-Abr-2020",
+      "monto": "210.00"
+    },
+    {
+      "id": 2,
+      "cliente": "Mi Mercado",
+      "fecha": "26-Abr-2020",
+      "monto": "108.00"
+    },
+    {
+      "id": 2,
+      "cliente": "La Salud, S.A.",
+      "fecha": "26-Abr-2020",
+      "monto": "200.00"
+    }
+  ]
+}
